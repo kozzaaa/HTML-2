@@ -1,0 +1,28 @@
+body {
+    background-color: darkgray;
+}
+
+img {
+    border-radius: 27%;
+    font-size: 100px;
+}
+
+#title {
+    color: rgb(0, 0, 0);
+    font-size: 37px;
+    font-weight: bolder;
+}
+
+#border {
+    background-color: rgb(0, 0, 0);
+    height: 2px;
+    border: 0px;
+}
+
+#button {
+    background-color: blue;
+    height: 20px;
+    width: 40px;
+
+
+}
